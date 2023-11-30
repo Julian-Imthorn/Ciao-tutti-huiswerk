@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: white;
+
+}
+.article-title {
+    color: grey;
+}
+
+.footer-span{
+    font-size: 10px;
+}
+
+h1 h2 h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.header-image{
+    width: 100%;
+}
+
+nav ul li a{
+    color: indianred;
+}
+
+main a:hover {
+    color: darkgreen;
+}
+
+div ul li{
+    color: darkgreen;
+}
+
+.button-right{
+    background-color: indianred;
+}
+.input-footer:focus{
+    background-color: forestgreen;
+}
+
+
+
+
